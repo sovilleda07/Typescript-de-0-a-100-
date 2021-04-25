@@ -1,0 +1,9 @@
+/* 
+    Módulos: ¿qué son y para qué sirven?
+    Son pequeñas porciones de código, reutilizables ya no solo 
+    dentro del mismo archivo, si no para poder usar en archivos exteriores.
+
+    Cualquier Variable, Clase o Interfaz se puede exportar.
+    La exportación se realiza para poder utilizar porciones de código de un archivo en otros.
+    Así podemos trabajar por módulos.
+*/
